@@ -1,0 +1,1 @@
+LL_insert_to_beginning(&head, 4);
